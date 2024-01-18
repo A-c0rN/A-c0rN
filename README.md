@@ -1,7 +1,7 @@
 <h1 align="center">Hey There!</h1>
 
 <h3 align="center">I am Anastasia Mayer, Also known as A-c0rN.</h3>
-I am a young software dev who has NO idea what to do, no motivation to do it, and only 4 years of *actual* experience to work on.
+<p align="center">I am a young software dev who has NO idea what to do, no motivation to do it, and only 4 years of *actual* experience to work on.</p>
 
 ---
 
